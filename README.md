@@ -1,4 +1,4 @@
 # desafio de projeto sobre git/github da dio
-desafio de projeto sobre git/github
+desafio criado para o projeto
 
 ## limk sobre markdown: https://www.markdownguide.org/
